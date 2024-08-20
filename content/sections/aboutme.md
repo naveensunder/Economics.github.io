@@ -1,8 +1,10 @@
-I am an Associate Professor (with tenure) at the [Haas School of Business](https://haas.berkeley.edu/) and the [Department of Economics](https://www.econ.berkeley.edu/) at UC Berkeley.
+I am an Assistant Professor (Tenure-Track) at the [Economics Department](https://www.bentley.edu/academics/departments/economics) in [Bentley University](https://bentley.edu/). I was a postdoctoral reserarcher in the Harvard T.H. Chan School of Public Health between  2019 and 2020. I graduated with a Ph.D in Economics from Cornell University. 
 
-My research brings insights from psychology to bear on topics in economics, particularly topics relevant to developing countries. My current research agenda is centered on the economics of mental health in developing countries. Past projects include studying how improving sleep affects the economic outcomes of workers in India, how the endowment effect influences consumer demand for collateralized loans in Kenya, how research findings affect the beliefs and policy choices of mayors in Brazil, and how mixing rich and poor students in schools in India affects social preferences and behaviors.
+I am a development economist who focusses on policy-relevant questions related to health, education and nutrition in developing countries. In recent years I have conducted research in China, India, Madagascar, Senegal, Tanzania and Uganda. 
 
-Together with Frank Schilbach and Heather Schofield, I help run the [Behavioral Development Lab](https://behavioraldevlab.org/index.html) in India. I am a Faculty Research Fellow at the National Bureau of Economic Research (NBER), and a faculty affiliate at the The Abdul Latif Jameel Poverty Action Lab (JPAL). From 2018 to 2020, I served as an Associate Editor at the Journal of Political Economy.
+I am an Assistant Professor of Economics at Bentley University . 
+
+I am an Associate Member at the REAL Centre at the University of Cambridge (UK). 
 
 __[Curriculum Vitae](/pdf/Rao_CV_latest.pdf")__ (Updated May 2024)
 
