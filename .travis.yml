@@ -9,7 +9,7 @@ deploy:
     skip_cleanup: true
     local_dir: public
     target-branch: master
-    github_token: $github_token
+    github_token: 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
     on:
         branch: source
 
